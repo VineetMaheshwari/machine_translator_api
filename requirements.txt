@@ -1,0 +1,11 @@
+flask==2.0.1
+joblib==1.0.1
+requests==2.26.0
+sentencepiece==0.1.96
+scipy==1.7.0
+transformers==4.8.2
+tensorflow==2.5.0
+torch==1.9.0
+numpy==1.19.2
+six==1.15.0
+pyopenssl==20.0.1
