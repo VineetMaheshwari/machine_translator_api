@@ -1,0 +1,41 @@
+This is just a test file for bunch of sentences
+
+source=english&target=hindi&text=The DOTS strategy is in practice in more than 180 countries. By March 2006, India has extended DOTS to the entire country. 
+
+
+source=english&target=hindi&text=We should not discriminate with TB patients. Rather patient should be advised to  take certain precaution to avoid spread of disease, he should cover his mouth  and nose while coughing or sneezing, ensure proper sputum disposal and take regular full medical treatment as advised by a medical physician .
+
+
+TB is  an infectious disease, it is not hereditary. Because the household contacts are  at an increased risk, so people have a wrong idea that it is a hereditary  disease.
+
+
+Only if they have cough for more than two  weeks they should get their sputum examination dose. Otherwise, children below  5 years should get their skin test for TB done and get drug to prevent disease,  if advised by doctor. In  case of suspicion please consult doctor.
+
+Yes.
+
+
+Usually  not. Except if patient is seriously ill. 
+
+Cough for three weeks or more, sometimes with blood-streaked sputum
+Fever,especially at night
+Weight loss
+Loss of appetite
+
+
+source=hindi&target=english&text=क्या एचआईवी सह-संक्रमण में तपेदिक ठीक हो सकता है?
+
+source=hindi&target=english&text=क्षय रोग का उपचार कितने समय तक करना चाहिए?
+
+
+क्या एचआईवी सह-संक्रमण में तपेदिक ठीक हो सकता है?
+
+
+क्या एक स्तनपान कराने वाली मां जो टीबी विरोधी उपचार प्राप्त कर रही है, अपने बच्चे को स्तनपान करा सकती है?
+
+
+source=hindi&target=english&text=शराब दवाओं के दुष्प्रभाव की संभावना को बढ़ा सकती है। टीबी की कुछ दवाएं कुछ मामलों में मतली, उल्टी या पीलिया का कारण बनती हैं। यदि टीबी रोगी शराब का भी सेवन करता है, तो इन दुष्प्रभावों के विकसित होने की संभावना अधिक होती है।
+
+
+हाँ।
+
+source=hindi&target=english&text=नहीं। ऐसा कभी-कभी हो सकता है क्योंकि रोगी आमतौर पर अच्छा आहार लेता है और बीमारी के दौरान आराम करता है।
